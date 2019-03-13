@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="snakeyaml">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../lib/SnakeYAML-all-1.11/snakeyaml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../lib/SnakeYAML-all-1.11/snakeyaml/target/apidocs" />
+      <root url="file://$PROJECT_DIR$/../../lib/SnakeYAML-all-1.11/snakeyaml/target/site/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../lib/SnakeYAML-all-1.11/snakeyaml/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../lib/SnakeYAML-all-1.11/snakeyaml/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
